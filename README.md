@@ -1,2 +1,1 @@
-# TinDog
-Responsive website built using Bootstrap
+TinDog Starting Files
